@@ -1,0 +1,14 @@
+C:\Users\User779\dotnet\Runic\bin\Debug\net8.0\Runic.exe
+C:\Users\User779\dotnet\Runic\bin\Debug\net8.0\Runic.deps.json
+C:\Users\User779\dotnet\Runic\bin\Debug\net8.0\Runic.runtimeconfig.json
+C:\Users\User779\dotnet\Runic\bin\Debug\net8.0\Runic.dll
+C:\Users\User779\dotnet\Runic\bin\Debug\net8.0\Runic.pdb
+C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\Runic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\Runic.AssemblyInfoInputs.cache
+C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\Runic.AssemblyInfo.cs
+C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\Runic.csproj.CoreCompileInputs.cache
+C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\Runic.dll
+C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\refint\Runic.dll
+C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\Runic.pdb
+C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\Runic.genruntimeconfig.cache
+C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\ref\Runic.dll

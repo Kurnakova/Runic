@@ -1,0 +1,5 @@
+- Write an interface for Spell Creation
+    Create a method for option display with enums (foreach(Foo in Foos), var values = Enum.GetValues(typeof(Foos)))
+        "1. ...
+         2. ......."
+- Improve Code that will read Spell Recipies (LearnSpellType())
