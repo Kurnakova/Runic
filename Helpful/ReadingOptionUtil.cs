@@ -12,7 +12,7 @@ public static class ReadingOptionUtil
             name = Console.ReadLine();
             if (string.IsNullOrWhiteSpace(name))
             {
-                Console.WriteLine("Invalid input.");
+                Console.WriteLine("Invalid input.\n");
             }
             else
             {

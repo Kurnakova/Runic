@@ -6,16 +6,16 @@ namespace Runic.Models;
 
 public class CreationSpell
 {
-    string _name;
-    Corporeality _corporeality;
-    Material _material;
-    Shape _shape;
+    string Name {get;}
+    Corporeality Corporeality {get;}
+    Material Material {get;}
+    Shape Shape {get;}
 
     public CreationSpell(string name, Corporeality corporeality, Material material, Shape shape)
     {
-        _name = name;
-        _corporeality = corporeality;
-        _material = material;
-        _shape = shape;
+        Name = name;
+        Corporeality = corporeality;
+        Material = material;
+        Shape = shape;
     }
 }

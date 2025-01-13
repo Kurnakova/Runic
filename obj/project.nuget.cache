@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ukh9jiUy6txq1Ug0uqxt4TVgZDZAPliPE0g9ux+iF869xG8T5w+v2fSIqtxQH47WJ/bwKJHENYw9hpVlu5lw/g==",
+  "dgSpecHash": "mRolVA1OymdHP0rK9M8A6Ca8dpR68S6HaHk/x1PDYLW0+uefscBbt537Kh+tEKHYso3C34yuBJd0h317Cs9xYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\User779\\dotnet\\Runic\\Runic.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User779\\.nuget\\packages\\kurnakov.enumconverter\\2.4.0\\kurnakov.enumconverter.2.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,11 +1,50 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Kurnakov.EnumConverter/2.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Kurnakov.EnumConverter.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Kurnakov.EnumConverter.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Kurnakov.EnumConverter/2.4.0": {
+      "sha512": "dwZ8Wwd/v5im8Ko8Bw0aiSGtpuH1n/IaPmQKab7pfYmfSqxtd2vLeQfNFKSoeUi7SWasbue53gzOfXs11VDs+g==",
+      "type": "package",
+      "path": "kurnakov.enumconverter/2.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "PackageReadMe.md",
+        "icon.png",
+        "kurnakov.enumconverter.2.4.0.nupkg.sha512",
+        "kurnakov.enumconverter.nuspec",
+        "lib/net5.0/Kurnakov.EnumConverter.dll",
+        "lib/net5.0/Kurnakov.EnumConverter.xml",
+        "lib/net6.0/Kurnakov.EnumConverter.dll",
+        "lib/net6.0/Kurnakov.EnumConverter.xml",
+        "lib/netstandard2.0/Kurnakov.EnumConverter.dll",
+        "lib/netstandard2.0/Kurnakov.EnumConverter.xml",
+        "lib/netstandard2.1/Kurnakov.EnumConverter.dll",
+        "lib/netstandard2.1/Kurnakov.EnumConverter.xml"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Kurnakov.EnumConverter >= 2.4.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\User779\\.nuget\\packages\\": {}
@@ -48,6 +87,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "Kurnakov.EnumConverter": {
+            "target": "Package",
+            "version": "[2.4.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

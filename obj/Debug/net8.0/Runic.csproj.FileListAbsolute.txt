@@ -12,3 +12,6 @@ C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\refint\Runic.dll
 C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\Runic.pdb
 C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\Runic.genruntimeconfig.cache
 C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\ref\Runic.dll
+C:\Users\User779\dotnet\Runic\bin\Debug\net8.0\Kurnakov.EnumConverter.dll
+C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\Runic.csproj.AssemblyReference.cache
+C:\Users\User779\dotnet\Runic\obj\Debug\net8.0\Runic.csproj.Up2Date
