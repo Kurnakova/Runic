@@ -1,6 +1,5 @@
+namespace Runic.Helpers;
 using System.Security.Cryptography;
-
-namespace Runic.Helpful;
 
 public static class ReadingOptionUtil
 {

@@ -10,8 +10,9 @@ public class CreationSpell
     public Corporeality Corporeality {get;}
     public Material Material {get;}
     public Shape Shape {get;}
+    public string CustomShape {get;}
 
-    public CreationSpell(string name, Corporeality corporeality, Material material, Shape shape)
+    public CreationSpell(string name, Corporeality corporeality, Material material, Shape shape, string customShape = "none")
     {
         Name = name;
         Corporeality = corporeality;
