@@ -18,5 +18,6 @@ public class CreationSpell
         Corporeality = corporeality;
         Material = material;
         Shape = shape;
+        CustomShape = customShape;
     }
 }
